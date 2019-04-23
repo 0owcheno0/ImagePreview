@@ -1,0 +1,6 @@
+framework module Pods_ImagePreview_Tests {
+  umbrella header "Pods-ImagePreview_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
